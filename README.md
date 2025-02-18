@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! 👋 <br><br>Excited that you are here. Here is a short intro about me<br><br>I'm a Full stack developer | AI/ML Engineer | Data Scientist | AI/ML Researcher.<br><br>Want to know more ? <br>Let's connect via LinkedIn or you can mail me at sudharsanmay10@gmail.com<br><br>
+Hi ! 👋 <br><br>Excited to see you here. Here is a short intro about me<br><br>I'm a Full stack developer | AI/ML Engineer | Data Scientist | AI/ML Researcher.<br><br>Want to know more ? <br>Let's connect via LinkedIn or you can mail me at sudharsanmay10@gmail.com<br><br>
 
 
 ## 🌐 Socials:
